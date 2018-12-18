@@ -24,11 +24,17 @@ h1 {
 
 .finfin {
   width: 150px;
-  height: 48px;
+  height: 20px;
   padding: 10px;
   border-radius: 50px;
   margin: 15px;
-  
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonface;
+  border-image: initial;
+  background-color: aliceblue;
+  color: black;
+  text-align: center;
 }
 
 .findmore {
